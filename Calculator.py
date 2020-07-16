@@ -1,8 +1,8 @@
 # TO-DO
 # 1 Enter valid number
 # 2 Invalid Operator
-# 2 for power, % for modulo functionality
-# 3 Square root functionality
+# 3 for power, % for modulo functionality
+# 4 Square root functionality
 # ***********************
 def calculate():
     operation = input('''
